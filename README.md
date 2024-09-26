@@ -1,2 +1,2 @@
 # IT-Firm
-IT Firm XYZ..
+ItabLLC is a cutting-edge technology solutions provider specializing in software development, IT consulting, and digital transformation services. Our mission is to empower businesses by delivering innovative solutions tailored to their unique needs. With a team of experienced professionals, we harness the latest technologies to optimize processes, enhance productivity, and drive growth. Whether you're looking for custom software, cloud services, or IT support, ItabLLC is dedicated to helping you succeed in the digital landscape.
